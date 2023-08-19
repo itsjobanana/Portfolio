@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/projects.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "keyboard rgb";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Ticket Booth",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration Python project on ticketing system for concerts and movies",
+    url: "https://github.com/itsjobanana/IM2TicketBooth",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Teknoy Archives",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Collaboration project on library app for CIT University students",
+    url: "https://github.com/itsjobanana/TeknoyArchives",
   },
   {
-    title: "My Resume Site",
+    title: "Google Developer Student Clubs",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Chapter Lead and CEO for A.Y. 2022-2023",
+    url: "https://gdsc.community.dev/cebu-institute-of-technology/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Microsoft Learn Student Ambassador",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Student Ambassador since July 2023",
+    url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/2cd7b34a-7026-4ec7-a526-9d783f22834b",
   },
 ];
 
